@@ -2,6 +2,12 @@
 
 [![HitCount](http://hits.dwyl.io/namandangi/BlogApp.svg)](http://hits.dwyl.io/namandangi/BlogApp)
 
+Personal Blog App!
+
+![](https://github.com/namandangi/BlogApp/blob/master/public/docs/Screenshot%20from%202020-01-15%2023-24-58.png)
+![](https://github.com/namandangi/BlogApp/blob/master/public/docs/Screenshot%20from%202020-01-15%2023-25-19.png)
+![](https://github.com/namandangi/BlogApp/blob/master/public/docs/Screenshot%20from%202020-01-15%2023-29-26.png)
+
 ## Technology Stack
 
 1.  MongoDB/MongoDBAtlas for database, Mongoose for ORM.
@@ -34,6 +40,6 @@
   
    1. Fork it (https://github.com/namandangi/BlogApp/fork)
    2. Create your feature branch  (```git checkout -b feature/fooBar```)
-   3. Commit your changes (``git commit -m 'Add some fooBar'```)
+   3. Commit your changes (```git commit -m 'Add some fooBar'```)
    4. Push to the branch (```git push origin feature/fooBar```)
    5. Create a new Pull Request
